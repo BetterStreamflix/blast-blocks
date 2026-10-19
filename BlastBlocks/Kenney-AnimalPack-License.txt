@@ -1,0 +1,5 @@
+Tile artwork: Kenney Animal Pack
+Source: https://kenney.nl/assets/animal-pack
+Author: Kenney (kenney.nl)
+License: Creative Commons Zero (CC0) — public domain.
+         https://creativecommons.org/publicdomain/zero/1.0/
